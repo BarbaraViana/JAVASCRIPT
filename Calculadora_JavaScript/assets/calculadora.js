@@ -62,7 +62,6 @@ function calculadora() {
                 }
             }
         }
-
         if (operacao == 1) {
             soma();
         } else if (operacao == 2) {
