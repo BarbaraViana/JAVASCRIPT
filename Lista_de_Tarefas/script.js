@@ -1,1 +1,7 @@
-console.log("Testando")
+const addBtn = document.querySelector("#add-btn");
+
+addBtn.addEventListener("click", function(e) {
+
+    e.preventDefault()
+
+})
